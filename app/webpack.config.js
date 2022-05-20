@@ -9,10 +9,6 @@ output: {
     filename: 'index.bundle.js',
 },
 
-devServer: {
-    port: 3000
-},
-
 module: {
     rules: [
         {
